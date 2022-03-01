@@ -56,4 +56,5 @@ class Number:
 a = Number(3)
 b = Number(3)
 print(a+b)
+print(a.__add__(b))
 
